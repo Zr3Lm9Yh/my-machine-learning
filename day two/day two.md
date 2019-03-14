@@ -7,7 +7,7 @@
 
 
 ---tu1---
-！[ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20two/img-day2/tu1.PNG)
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20two/img-day2/tu1.PNG)
 
 ---tu2---
 
