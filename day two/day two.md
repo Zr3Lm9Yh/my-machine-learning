@@ -6,7 +6,7 @@
 通过向量参数的封装后，目标函数，代价函数和梯度下降函数就变成了这个歌样子
 
 
-![Image text](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20two/img-day2/tu1.PNG)
+![image](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20two/img-day2/tu1.PNG)
 
 
 ![Image text](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20two/img-day2/tu2.PNG)
