@@ -10,19 +10,23 @@
 ![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20two/img-day2/tu1.PNG)
 
 ---tu2---
-
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20two/img-day2/tu2.PNG)
 
 ---tu3---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20two/img-day2/tu3.PNG)
 注意了，这里的求导出来，那你要想怎样来的，沃恩知道一元参数求导，是通过倒数，当然这个多元的话就是偏导数具体的位置的话是我们的笔记中
 步骤如图
 
 
 ---tu4---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20two/img-day2/tu4.PNG)
 
 当然了我们再用梯度下降的时候，我们为了使我们收敛速度，合适，所以我们要学会特征缩放
 
 
 ---tu5---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20two/img-day2/tu5.PNG)
+
 将特征的参数取到-1到1之间
 
 当然也可以用均质化归一的思想来初始您的参数
@@ -36,7 +40,7 @@
 
 
 ---tu6---
-
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20two/img-day2/tu6.PNG)
 
 
 首先还是，将X（特征）转化为向量，将y也就是目标的值转化为向量
@@ -46,7 +50,7 @@
 
 
 ---tu7---
-
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20two/img-day2/tu7.PNG)
 
 正规方程以及不可逆的情况，比如说有两个数据有着线性联系（详情参照线性代数）
 
