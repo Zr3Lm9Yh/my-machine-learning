@@ -7,10 +7,10 @@
 
 
 ---tu1---
-![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20two/img-day2/tu1.PNG)
+![Image text](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20two/img-day2/tu1.PNG)
 
 ---tu2---
-![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20two/img-day2/tu2.PNG)
+![Image text](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20two/img-day2/tu2.PNG)
 
 ---tu3---
 ![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20two/img-day2/tu3.PNG)
