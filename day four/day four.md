@@ -3,6 +3,8 @@
 
 
 ---tu1---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu1.PNG)
+
 
 
 
@@ -10,6 +12,9 @@
 
 
 ---tu2---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu2.PNG)
+
+
 
 
 这个分类器实际上在计算给定x和theta时，y的值为1的概率
@@ -21,6 +26,10 @@
 
 
 ---tu3---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu3.PNG)
+
+
+
 
 
 在逻辑回归中也同理
@@ -35,6 +44,9 @@
 
 
 ---tu4---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu4.PNG)
+
+
 
 
 
@@ -44,18 +56,26 @@
  所以我们通过后面加一个正则化的例子
 
 ---tu5---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu5.PNG)
+
+
+
 
 
 线性回归中的正则化
 
 
 ---tu6---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu6.PNG)
+
 
 
 矩阵方程的正则化
 
 
 ---tu7---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu7.PNG)
+
 
 
 
@@ -63,6 +83,7 @@
 
 
 ---tu8---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu8.PNG)
 
 
 
@@ -72,6 +93,8 @@
 
 
 ---tu9---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu9.PNG)
+
 
 
 而求导之后的样子就像如图所示的样子（上图）
@@ -87,6 +110,9 @@
 
 
 ---tu10---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu10.PNG)
+
+
 
 
 
@@ -96,6 +122,10 @@
 
 
 ---tu11---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu11.PNG)
+
+
+
 
 
 我们需要理解每个符号的含义
@@ -104,12 +134,19 @@
 
 
 ---tu12---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu12.PNG)
+
+
+
 
 
 神经网络前向传播的大概框架
 
 
 ---tu13---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu13.PNG)
+
+
 
 
 
@@ -119,6 +156,10 @@
 
 
 ---tu14---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu14.PNG)
+
+
+
 
 
 神经网络中的连接方式被称为神经架构，架构指的是不同的神经元的连接方式
@@ -136,6 +177,9 @@
 
 
 ---tu15---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu15.PNG)
+
+
 
 
 我们又知道sigmoid得函数的样子，我们就把y的值，也就是sigmoid的1，0表示逻辑关系
@@ -145,6 +189,10 @@
 
 
 ---tu16---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu16.PNG)
+
+
+
 
 
 
@@ -152,12 +200,19 @@
 
 
 ---tu17---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu17.PNG)
+
+
+
+
 
 
 就像我们之前学计算机科学的时候，当我们来表示其他更为复杂的函数的时候，我们可以将简单的与和非，进行组合就能够得到
 
 
 ---tu18---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu18.PNG)
+
 
 
 
@@ -166,6 +221,7 @@
 
 
 ---tu19---
+![ad](https://github.com/Zr3Lm9Yh/my-machine-learning/blob/master/day%20four/img-day4/tu19.PNG)
 
 
 
